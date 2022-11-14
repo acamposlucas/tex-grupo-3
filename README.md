@@ -3,3 +3,4 @@
 ## Membros
 
 -   Lucas Almeida
+-   Mauricio Alves
