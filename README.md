@@ -2,9 +2,9 @@
 
 ## Membros
 
--   Lucas Almeid
+-   Lucas Almeida
 -   Mauricio Alves
 -   Gustavo Nobrega
--   Hewerton Folli
--   Habacuque Cavalcante
 -   Mariana Cury1
+-   Hewerton Folli - teste
+-   Habacuque Cavalcante
