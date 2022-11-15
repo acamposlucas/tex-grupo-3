@@ -6,3 +6,4 @@
 -   Mauricio Alves
 -   Gustavo Nobrega
 -   Hewerton Folli
+-   Habacuque Cavalcante
