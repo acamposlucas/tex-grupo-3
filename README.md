@@ -5,5 +5,6 @@
 -   Lucas Almeida
 -   Mauricio Alves
 -   Gustavo Nobrega
+-   Mariana Cury1
 -   Hewerton Folli - teste
 -   Habacuque Cavalcante
