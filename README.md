@@ -6,5 +6,5 @@
 -   Mauricio Alves
 -   Gustavo Nobrega
 -   Mariana Cury1
--   Hewerton Folli - teste
+-   Hewerton Folli
 -   Habacuque Cavalcante
