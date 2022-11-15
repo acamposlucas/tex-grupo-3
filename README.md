@@ -4,3 +4,4 @@
 
 -   Lucas Almeida
 -   Mauricio Alves
+-   Gustavo Nobrega
