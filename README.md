@@ -9,3 +9,5 @@
 -   Hewerton Folli
 -   Habacuque Cavalcante
 -   José Honorato
+-   Jeff Barbosa
+-   Emmanuel Albuquerque
