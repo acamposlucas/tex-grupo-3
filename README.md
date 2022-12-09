@@ -1,18 +1,20 @@
-# Repositório do grupo 3
+# 10conto
 
-## Membros
+[Protótipo de app de cupons](https://share.proto.io/A51RGL/), desenvolvido em equipe na plataforma [proto.io](http://proto.io/), como parte de um projeto sobre metodologia ágil e UX do curso full-stack javascript da T.EX - Technology Experts. 
+
+Caso queira saber mais sobre o projeto, este é o [link da apresentação](https://docs.google.com/presentation/d/1NNwNxYYkZa1rTdOAi-F5C5tqpZ71nEnMSxUF1aOw7iQ/edit#slide=id.gcb9a0b074_1_0).
+
+##  Team3
 
 -   Lucas Almeida
 -   Mauricio Alves
 -   Gustavo Nobrega
--   Mariana Cury1
+-   Mariana Cury
 -   Hewerton Folli
 -   Habacuque Cavalcante
 -   José Honorato
 -   Jeff Barbosa
 -   Emmanuel Albuquerque
 
-| Story #4     |                  VOUCHERS                  |
-| ------------ | ------------------------------------------ |
-| Descritivo | Como desenvolvedor devo fazer a integração entre a compra finalizada pelo usuário e sua carteira digital para que seja possível transformar esse valor em voucher |
-| Tarefas    | <ul><li> sistema deve direcionar usuário ao site da loja após ativar o cupom desejado</li><li> sistema deve receber a confirmação da compra feita pelo usuário no site da loja utilizando o cupom </li><li> Após a confirmação, sistema deve adicionar a pontuação de cupons utilizados à conta do usuário </li><li> sistema deve adicionar os vouchers de acordo com a pontuação acumulada pelo usuário </li><li> sistema deve permitir ao usuário utilizar os vouchers adquiridos para novas compras nas lojas parceiras</li></ul> |
+#
+Desenvolvido apenas para fins educacionais.
